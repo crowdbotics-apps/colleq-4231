@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT colleq_4231.wsgi:application
